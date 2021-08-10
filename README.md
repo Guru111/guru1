@@ -11,5 +11,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
- ![Snake animation](https://github.com/guru1/Guru111/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Guru111/guru1/blob/output/github-contribution-grid-snake.svg)
 </div>
