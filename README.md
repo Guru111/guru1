@@ -2,7 +2,7 @@
 
 ## Hi! I'm GURU1
 
-![Ruchir's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheRuchirShah&bg_color=151515&line=444444&point=dadada&color=dadada&area=true&area_color=f1f1f1&hide_border=true)
+![Ruchir's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheRuchirShah&bg_color=151515&line=69d881&point=dadada&color=dadada&area=true&area_color=69d881&hide_border=true)
 
 
 <h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
